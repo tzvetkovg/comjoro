@@ -17,6 +17,9 @@ public class AnotherClass extends AbsractClass {
     /*
         hello guys
      */
+    /*
+        new Stash
+     */
     Integer af =2;
     String fs = "677667767622";
     Integer ass;
