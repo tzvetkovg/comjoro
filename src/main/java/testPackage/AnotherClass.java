@@ -15,7 +15,7 @@ public class AnotherClass extends AbsractClass {
         this.fs = fs;
     }
     /*
-        hello guys
+        new branch
      */
     /*
         new Stash
