@@ -12,11 +12,12 @@ public class AnotherClass extends AbsractClass {
     public void setFs(String fs) {
         this.fs = fs;
     }
-
+    Integer af =2;
     String fs = "677667767622";
 
     public void callMe(String newParameter, Integer inter, String fssfs, String fs) { //Todo
 
     }
+
 
 }
