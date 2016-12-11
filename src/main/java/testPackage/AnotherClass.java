@@ -14,7 +14,7 @@ public class AnotherClass extends AbsractClass {
     }
     Integer af =2;
     String fs = "677667767622";
-
+    Integer ass;
     public void callMe(String newParameter, Integer inter, String fssfs, String fs) { //Todo
 
     }
