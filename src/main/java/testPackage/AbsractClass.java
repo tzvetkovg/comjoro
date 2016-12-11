@@ -14,6 +14,6 @@ public abstract class AbsractClass {
 
     public void newMethod(String afs)
     {
-
+        String a = "";
     }
 }
