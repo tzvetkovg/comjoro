@@ -5,7 +5,17 @@ package testPackage;
  */
 public class AnotherClass extends AbsractClass {
 
-    public void callMe(String newParameter, Integer inter, String fssfs, String fs) {
+    public String getFs() {
+        return fs;
+    }
+
+    public void setFs(String fs) {
+        this.fs = fs;
+    }
+
+    String fs;
+
+    public void callMe(String newParameter, Integer inter, String fssfs, String fs) { //Todo
 
     }
 
