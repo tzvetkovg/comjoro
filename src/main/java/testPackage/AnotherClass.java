@@ -13,7 +13,7 @@ public class AnotherClass extends AbsractClass {
         this.fs = fs;
     }
 
-    String fs = "6776677676";
+    String fs = "677667767622";
 
     public void callMe(String newParameter, Integer inter, String fssfs, String fs) { //Todo
 
