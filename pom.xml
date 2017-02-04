@@ -52,16 +52,19 @@
 
  <distributionManagement>
 
-   <!-- <repository>
+    <repository>
         <id>ftp-joreto</id>
-        <url>file:///C:/Users/joreto/.m2/</url>
-    </repository>-->
+        <url>file:///C:/Users/joreto/.m2/repo</url>
+    </repository>
     <snapshotRepository>
         <id>ftp-joreto</id>
-        <url>file:///C:/Users/joreto/.m2/</url>
+        <url>file:///C:/Users/joreto/.m2/snapshots</url>
     </snapshotRepository>
  </distributionManagement>
 
+  <scm>
+      <connection>scm:git:https://github.com/tzvetkovg/comjoro.git</connection>
+  </scm>
 
     <build>
         <plugins>
@@ -80,6 +83,11 @@
                 <configuration>
                     <failOnMissingWebXml>false</failOnMissingWebXml>
                  </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                 <artifactId>maven-release-plugin</artifactId>
+                <version>2.5.3</version>
             </plugin>
         </plugins>
 
