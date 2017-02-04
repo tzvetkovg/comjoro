@@ -14,4 +14,6 @@ class WebMvcConfig extends WebMvcConfigurerAdapter {
         resourceHandlerRegistry.addResourceHandler("/resources/**").addResourceLocations("/WEB-INF/resources/");
     }
 
+
+
 }

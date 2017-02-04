@@ -7,11 +7,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="afms" />
         <module name="idea" />
+        <module name="mpicommon" />
+        <module name="v8domain" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="idea" target="1.5" />
+      <module name="afms" target="1.8" />
+      <module name="idea" target="1.8" />
+      <module name="mpicommon" target="1.8" />
+      <module name="V8" target="1.8" />
+      <module name="v8-group-generator-maven-plugin" target="1.8" />
+      <module name="v8domain" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

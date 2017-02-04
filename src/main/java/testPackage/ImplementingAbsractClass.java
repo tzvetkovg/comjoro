@@ -7,6 +7,7 @@ public class ImplementingAbsractClass extends AbsractClass {
 
     public void callMe(String newParameter, Integer inter, String fssfs, String fs) {
         hello("fs", fs);
+        Integer a;
     }
 
 }

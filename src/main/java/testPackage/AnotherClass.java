@@ -15,11 +15,12 @@ public class AnotherClass extends AbsractClass {
         this.fs = fs;
     }
     /*
-        new branch fsfsdfs fsdfsd
+        new branch fsfsdfs fsdfsd hello
      */
     /*
         new Stash
      */
+
     Integer af =2;
     String fs = "677667767622";
     Integer ass;
@@ -27,6 +28,5 @@ public class AnotherClass extends AbsractClass {
     public void callMe(String newParameter, Integer inter, String fssfs, String fs) { //Todo
 
     }
-
 
 }

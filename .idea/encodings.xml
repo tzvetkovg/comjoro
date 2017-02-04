@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://C:/Utilisoft/V8Domain/V8Domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../AFMS/AFMS/AFMS_GAS/AFMS" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../AFMS/MPICommon/MPI_Common/MPICommon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../AFMS/V8/V8" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../AFMS/V8Generator/V8_Group_Generator/V8Generator" charset="UTF-8" />
+  </component>
+</project>

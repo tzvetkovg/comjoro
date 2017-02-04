@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../AFMS/AFMS/AFMS_GAS/AFMS" />
     <file type="web" url="file://$PROJECT_DIR$" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../AFMS/MPICommon/MPI_Common/MPICommon/pom.xml" />
+        <option value="$PROJECT_DIR$/../AFMS/AFMS/AFMS_GAS/AFMS/pom.xml" />
+        <option value="C:/Utilisoft/V8Domain/V8Domain/pom.xml" />
       </list>
     </option>
   </component>

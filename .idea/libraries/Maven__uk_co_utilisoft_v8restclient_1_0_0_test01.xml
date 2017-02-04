@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: uk.co.utilisoft:v8restclient:1.0.0_test01">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/uk/co/utilisoft/v8restclient/1.0.0_test01/v8restclient-1.0.0_test01.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/uk/co/utilisoft/v8restclient/1.0.0_test01/v8restclient-1.0.0_test01-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/uk/co/utilisoft/v8restclient/1.0.0_test01/v8restclient-1.0.0_test01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

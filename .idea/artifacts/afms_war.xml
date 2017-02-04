@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="afms:war">
+    <output-path>$PROJECT_DIR$/../AFMS/AFMS/AFMS_GAS/AFMS/target</output-path>
+    <root id="archive" name="afms.war">
+      <element id="artifact" artifact-name="afms:war exploded" />
+    </root>
+  </artifact>
+</component>

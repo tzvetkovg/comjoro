@@ -5,15 +5,22 @@ package testPackage;
  */
 public abstract class AbsractClass {
 
-    public abstract void callMe(String newParameter, Integer inter, String fssfs, String fs);
-
     public Integer hello(String af, String fs)
     {
+        Integer a;
+
+        String test = "from SupplyPeriod " +
+                "xacaca fsf sfsfsfs";
+
         return - 1;
     }
+
+    public abstract void callMe(String newParameter, Integer inter, String fssfs, String fs);
 
     public void newMethod(String afs)
     {
         String a = "";
     }
+
+
 }

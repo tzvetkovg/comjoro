@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: uk.co.utilisoft:v8-group-generator-maven-plugin:1.0.0_test76-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/uk/co/utilisoft/v8-group-generator-maven-plugin/1.0.0_test76-SNAPSHOT/v8-group-generator-maven-plugin-1.0.0_test76-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../AFMS/V8Generator/V8_Group_Generator/V8Generator/v8-group-generator-maven-plugin-1.0.0_test76-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/uk/co/utilisoft/v8-group-generator-maven-plugin/1.0.0_test76-SNAPSHOT/v8-group-generator-maven-plugin-1.0.0_test76-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../AFMS/V8Generator/V8_Group_Generator/V8Generator/v8-group-generator-maven-plugin-1.0.0_test76-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/uk/co/utilisoft/v8-group-generator-maven-plugin/1.0.0_test76-SNAPSHOT/v8-group-generator-maven-plugin-1.0.0_test76-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
