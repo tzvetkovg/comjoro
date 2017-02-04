@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="idea:war">
     <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="com.joro-1.0-SNAPSHOT.war">
+    <root id="archive" name="com.joro-1.1-SNAPSHOT.war">
       <element id="artifact" artifact-name="idea:war exploded" />
     </root>
   </artifact>
