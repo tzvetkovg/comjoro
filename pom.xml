@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>Joreto</groupId>
     <artifactId>com.joro</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
     <packaging>war</packaging>
 
 <dependencies>
@@ -62,6 +62,7 @@
 
   <scm>
       <connection>scm:git:https://github.com/tzvetkovg/comjoro.git</connection>
+    <tag>com.joro-1.2</tag>
   </scm>
 
     <build>
