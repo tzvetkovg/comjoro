@@ -61,8 +61,10 @@
  </distributionManagement>
 
   <scm>
-      <connection>scm:git:https://github.com/tzvetkovg/comjoro.git</connection>
-    <tag>HEAD</tag>
+      <connection>scm:git:git@github.com:tzvetkovg/comjoro.git</connection>
+      <developerConnection>scm:git:git@github.com:tzvetkovg/comjoro.git</developerConnection>
+      <url>git@github.com:tzvetkovg/comjoro.git</url>
+      <tag>HEAD</tag>
   </scm>
 
     <build>
