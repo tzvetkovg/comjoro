@@ -52,7 +52,7 @@
 
     <repository>
         <id>ftp-joreto</id>
-        <url>file:///C:/Users/joreto/.m2/repo</url>
+        <url>file:///C:/Users/joreto/.m2/releases</url>
     </repository>
     <snapshotRepository>
         <id>ftp-joreto</id>
