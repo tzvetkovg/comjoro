@@ -60,10 +60,16 @@
     </snapshotRepository>
  </distributionManagement>
 
-  <scm>
+
+    <scm>
+        <connection>scm:git:git://github.com/tzvetkovg/comjoro.git</connection>
+        <developerConnection>scm:git:git@github.com:tzvetkovg/comjoro.git</developerConnection>
+
+    </scm>
+<!--  <scm>
       <connection>scm:git:https://github.com/tzvetkovg/comjoro.git</connection>
     <tag>HEAD</tag>
-  </scm>
+  </scm>-->
 
     <build>
         <plugins>
