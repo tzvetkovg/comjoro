@@ -61,9 +61,9 @@
  </distributionManagement>
 
   <scm>
-      <connection>scm:git:git@github.com:tzvetkovg/comjoro.git</connection>
-      <developerConnection>scm:git:git@github.com:tzvetkovg/comjoro.git</developerConnection>
-      <url>git@github.com:tzvetkovg/comjoro.git</url>
+      <connection>scm:git:https://github.com/tzvetkovg/comjoro</connection>
+      <developerConnection>scm:git:https://github.com/tzvetkovg/comjoro</developerConnection>
+      <url>scm:git:https://github.com/tzvetkovg/comjoro</url>
       <tag>com.joro-1.2</tag>
   </scm>
 
