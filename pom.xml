@@ -62,8 +62,9 @@
 
 
     <scm>
-        <connection>scm:git:git://github.com/tzvetkovg/comjoro.git</connection>
-        <developerConnection>scm:git:git@github.com:tzvetkovg/comjoro.git</developerConnection>
+        <connection>scm:git:https://github.com/tzvetkovg/comjoro.git</connection>
+        <developerConnection>scm:git:https://github.com/tzvetkovg/comjoro.git</developerConnection>
+        <url>https://github.com/tzvetkovg/comjoro.git</url>
 
     </scm>
 <!--  <scm>
