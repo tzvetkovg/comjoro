@@ -40,8 +40,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            <state relative-caret-position="442">
+              <caret line="65" column="18" lean-forward="false" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -1259,7 +1259,7 @@
       <workItem from="1485631214080" duration="12110000" />
       <workItem from="1486223985597" duration="27316000" />
       <workItem from="1486333346637" duration="4636000" />
-      <workItem from="1486504395441" duration="1524000" />
+      <workItem from="1486504395441" duration="1845000" />
     </task>
     <task id="LOCAL-00001" summary="new String added">
       <created>1481487925752</created>
@@ -1370,7 +1370,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199657000" />
+    <option name="totallyTimeSpent" value="199978000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -1883,8 +1883,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="442">
+          <caret line="65" column="18" lean-forward="false" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
           <folding />
         </state>
       </provider>
