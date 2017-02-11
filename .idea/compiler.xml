@@ -9,14 +9,17 @@
         <outputRelativeToContentRoot value="true" />
         <module name="afms" />
         <module name="idea" />
+        <module name="maven-archiver" />
         <module name="mpicommon" />
-        <module name="v8domain" />
+        <module name="schematool" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="afms" target="1.8" />
       <module name="idea" target="1.8" />
+      <module name="maven-archiver" target="1.5" />
       <module name="mpicommon" target="1.8" />
+      <module name="schematool" target="1.6" />
       <module name="V8" target="1.8" />
       <module name="v8-group-generator-maven-plugin" target="1.8" />
       <module name="v8domain" target="1.8" />

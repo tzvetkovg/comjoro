@@ -4,8 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../AFMS/AFMS/AFMS_GAS/AFMS/afms.iml" filepath="$PROJECT_DIR$/../AFMS/AFMS/AFMS_GAS/AFMS/afms.iml" />
       <module fileurl="file://$PROJECT_DIR$/idea.iml" filepath="$PROJECT_DIR$/idea.iml" />
+      <module fileurl="file://C:/Utilisoft/schematool/target/maven-archiver/maven-archiver.iml" filepath="C:/Utilisoft/schematool/target/maven-archiver/maven-archiver.iml" />
       <module fileurl="file://$PROJECT_DIR$/../AFMS/MPICommon/MPI_Common/MPICommon/mpicommon.iml" filepath="$PROJECT_DIR$/../AFMS/MPICommon/MPI_Common/MPICommon/mpicommon.iml" />
-      <module fileurl="file://C:/Utilisoft/V8Domain/V8Domain/v8domain.iml" filepath="C:/Utilisoft/V8Domain/V8Domain/v8domain.iml" />
+      <module fileurl="file://C:/Utilisoft/schematool/schematool.iml" filepath="C:/Utilisoft/schematool/schematool.iml" />
     </modules>
   </component>
 </project>

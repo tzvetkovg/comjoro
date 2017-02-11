@@ -10,7 +10,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../AFMS/MPICommon/MPI_Common/MPICommon/pom.xml" />
         <option value="$PROJECT_DIR$/../AFMS/AFMS/AFMS_GAS/AFMS/pom.xml" />
-        <option value="C:/Utilisoft/V8Domain/V8Domain/pom.xml" />
+        <option value="C:/Utilisoft/schematool/target/maven-archiver/pom.properties" />
+        <option value="C:/Utilisoft/schematool/pom.xml" />
       </list>
     </option>
   </component>

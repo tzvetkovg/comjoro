@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: uk.co.utilisoft:v8domain:2.2.0-33-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/uk/co/utilisoft/v8domain/2.2.0-33-SNAPSHOT/v8domain-2.2.0-33-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/uk/co/utilisoft/v8domain/2.2.0-33-SNAPSHOT/v8domain-2.2.0-33-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/uk/co/utilisoft/v8domain/2.2.0-33-SNAPSHOT/v8domain-2.2.0-33-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
