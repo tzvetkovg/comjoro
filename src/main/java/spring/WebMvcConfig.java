@@ -8,12 +8,13 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
  * Created by joreto on 06/12/2016.
  */
 @Configuration
-class WebMvcConfig extends WebMvcConfigurerAdapter {
+class WebMvcConfig extends WebMvcConfigurerAdapter
+{
 
-    public void addResourceHandlers(ResourceHandlerRegistry resourceHandlerRegistry) {
-        resourceHandlerRegistry.addResourceHandler("/resources/**").addResourceLocations("/WEB-INF/resources/");
-    }
-
+  public void addResourceHandlers(ResourceHandlerRegistry resourceHandlerRegistry)
+  {
+    resourceHandlerRegistry.addResourceHandler("/resources/**").addResourceLocations("/WEB-INF/resources/");
+  }
 
 
 }
